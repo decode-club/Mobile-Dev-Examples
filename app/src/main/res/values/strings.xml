@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Mobile Dev Examples</string>
+    <string-array name="spinner_strings">
+        <item>Apple</item>
+        <item>Orange</item>
+        <item>Banana</item>
+        <item>Strawberries</item>
+    </string-array>
 </resources>
